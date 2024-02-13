@@ -17,8 +17,7 @@ brought global excitement. We have LLMs as one of our topics.
 
 
 ## Class Schedule:
-- Jan 16 Syllabus
-- Lesson 1: Getting to Know Your Data
+- Jan 16 Syllabus / Lesson 1: Getting to Know Your Data
 - Jan 23 Lesson 2: Principal Component Analysis
 - Jan 30 Lesson 3: Pattern Mining
 - Feb 6 Lesson 4: Machine Learning 1
