@@ -1,0 +1,3 @@
+What is Deep Learning? - https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning
+Deep Learning Step by Step - https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning 
+Top 10 Deep Learning Models - https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm
