@@ -1,0 +1,5 @@
+The file for this assignment is too big to keep on github, What you will need to do is:
+1. Download the file from this link: http://nlp.stanford.edu/data/glove.6B.zip
+2. Unzip it in the location where your files are
+3. Use the 6B 50D file from the zip 
+4. If you push this to github, delete the file before you do so
